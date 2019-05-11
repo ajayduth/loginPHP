@@ -1,0 +1,65 @@
+.invalid{
+    color: red;
+     font-style: italic;
+     font-size: 12px;
+    }
+
+    .col4{
+      width: 33.33%;
+      float: left;
+      padding: 2px;
+    }
+
+    .col3{
+	width: 25%;
+        float: left;
+        padding: 2px;
+    }			
+    .col6{
+      width: 50%;
+      float: left;
+      padding: 2px;
+    }
+    .row{
+      width: 100%;
+    }
+
+.goodtogo{
+  text-align: center;
+  border: 2px;
+}
+
+.top-right{
+  float: right;
+  margin: 0 0 0 auto;
+}
+input{
+  border: 2px;
+  border-radius: 6px;
+  width: 230px;
+  height: 40px;
+  font-size: 16px;
+margin: 10px;}
+
+fieldset{
+ border: 2px solid;
+}
+
+   form{
+      text-align: center;
+   }
+
+a:hover{
+text-decoration: none;}
+a:visited{
+color: none;}
+
+th, td {
+  padding-left: 30px;
+  text-align: left;
+}
+
+span{ 
+  text-align: center;
+}
+
